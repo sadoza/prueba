@@ -1,5 +1,4 @@
 <?php
-<?php
 try{
 	$clienteSOAP = new SoapClient('http://www.webservicex.net/geoipservice.asmx?WSDL');
 
